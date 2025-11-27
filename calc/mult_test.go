@@ -13,4 +13,5 @@ func ExampleMult() {
 	// 42
 	// 0
 	// 2
+	//fqff
 }
